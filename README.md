@@ -6,6 +6,12 @@ gabagoo
 ---
 
 ## Activity
-<figure><embed src="https://wakatime.com/share/@Flop/d61fe3a8-fc1f-4ac9-9720-f3399b7aa1c2.svg"></embed></figure>
 
-<figure><embed src="https://wakatime.com/share/@Flop/ee532054-2194-45f6-a91b-14a59fd99596.svg"></embed></figure>
+<p align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Flop/c5df46d4-2140-4199-884c-1c77a1fa0fdd.png" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Flop/f541758a-228a-4d07-b5a1-6914e5798816.png" /></a>
+</p>
